@@ -23,3 +23,4 @@ Run the application using
 \
 When running the application, you **MUST** create the server prior to connecting any clients.
 
+![image](https://user-images.githubusercontent.com/88940506/186541250-bf6ad4b3-1983-4837-8545-55537d298955.png)
